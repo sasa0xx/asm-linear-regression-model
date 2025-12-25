@@ -2,7 +2,7 @@
 
 A **from-scratch linear regression implementation written entirely in x86-64 assembly (NASM)** for Linux.
 
-This project was built to deeply understand what machine learning models *actually do under the hood* — from math, to memory, to CPU instructions — without relying on any libraries or runtime support.
+This project was built to deeply understand what machine learning models *actually do under the hood* — from math, to memory, to CPU instructions ,without relying on any libraries or runtime support.
 
 No libc.  
 No ML frameworks.  
