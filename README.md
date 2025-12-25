@@ -37,7 +37,7 @@ It exists to answer questions like:
 - How much work do ML libraries hide from you?
 - How do math, memory layout, and control flow connect?
 
-Writing this in assembly forces complete understanding — there is nowhere to hide.
+Writing this in assembly forces complete understanding there is nowhere to hide.
 
 ---
 
